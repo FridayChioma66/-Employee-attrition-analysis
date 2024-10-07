@@ -13,9 +13,9 @@ will enable the human resource department take necessary actions to prevent high
 ### Data Source
 The primary data set utilized for this analysis is sourced from www.Kaggle.com, comprising comprehensive human resource data essential for the analysis.
 #### Tools Used
-•	Microsoft Excel: To clean the data.
-•	SQL Server Management Studio: To analyze the data.
-•	Power BI: To visualize the outcomes.
+1.	Microsoft Excel: To clean the data.
+2.	SQL Server Management Studio: To analyze the data.
+3.	Power BI: To visualize the outcomes.
 ##### Data Cleaning Process in Excel.
 1.	Opened the data using Microsoft Excel.
 2.	Expand the whole column in the data set.
